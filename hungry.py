@@ -10,4 +10,5 @@ else:
     if thirsty == "yes":
         print("drink")
         print("drink 2")
+
 // This code has been edited.
