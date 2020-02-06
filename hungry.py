@@ -1,3 +1,4 @@
+Learn more or give us feedback
 hungry = input("are you hungry?")
 if hungry == "yes":
     print("eat")
@@ -9,3 +10,5 @@ else:
     if thirsty == "yes":
         print("drink")
         print("drink 2")
+
+// This code has been edited.
